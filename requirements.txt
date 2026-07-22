@@ -1,0 +1,11 @@
+Required Excel column names:
+
+Start Date/Time
+End Date/Time
+Duration
+Custom scale
+Map Location
+Latitude
+Longitude
+Event type (optional)
+Severity   (optional)
