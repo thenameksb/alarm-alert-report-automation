@@ -7,7 +7,7 @@ PIDWS Alerts Automation is a Python-based automation tool for processing pipelin
 The project automatically:
 
 - Separates Day Alerts and Night Alerts
-- eead multiply sheets and create sheets with custome names
+- read multiply sheets and create sheets with custome names
 - Merges duplicate alerts
 - Calculates total alert duration
 - Selects Operator Alerts
