@@ -20,12 +20,11 @@ The project automatically:
 ## Features
 
 - Excel Automation using openpyxl
-- Automatic Day/Night alert detection
-- Duplicate alert merging
-- Duration calculation
-- Operator alert selection
-- PDF report generation
-- Mixed date format support
+- Automatic Day/Night alerts detection
+- Duplicate alert values merging
+- Duration calculation by unique vlaues
+- Operator alert (custom values )selection
+- Mixed date format support example (24 hours and AM/PM)
 - Automatic Excel formatting
 
 ---
