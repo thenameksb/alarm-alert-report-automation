@@ -29,7 +29,7 @@ The project automatically:
 
 ---
 
-## Technologies Used
+## Technologies Used for this project 
 
 - Python
 - openpyxl
@@ -59,23 +59,16 @@ ALARM-ALERTS/
 ---
 
 ## Installation
-
 Install the required libraries:
-
 ```bash
 pip install -r requirements.txt
 ```
 
----
-
 ## Usage
-
 Run the main script:
-
 ```bash
 python scripts/daily_report.py
 ```
-
 ---
 
 ## Sample Input
