@@ -1,3 +1,6 @@
+PIDWS Alert Report Automation
+Python-based Excel automation system that processes PIDWS alerts, classifies day/night events, groups alerts by Custom Scale, aggregates durations, applies business rules, resolves conflicts, handles operator-specific alerts, generates map links, and produces a cleaned final report.
+
 # ALARM Alerts Automation
 
 ## Overview
@@ -16,6 +19,23 @@ The project automatically:
 - Supports multiple Excel date formats
 
 ---
+Raw Excel
+   ↓
+Night / Day Classification
+   ↓
+Night Alert Processing
+   ↓
+Day Alert Processing
+   ↓
+Day/Night Conflict Resolution
+   ↓
+Operator Alert Processing
+   ↓
+Map Location Links
+   ↓
+Custom Scale Sorting
+   ↓
+FINAL Excel Report
 
 ## Features
 
