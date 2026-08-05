@@ -15,7 +15,6 @@ The project automatically:
 - Calculates total alert duration
 - Selects Operator Alerts
 - Applies Excel formatting automatically
-- Generates a professional PDF report
 - Supports multiple Excel date formats
 
 ---
