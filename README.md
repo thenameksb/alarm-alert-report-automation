@@ -82,7 +82,6 @@ The repository contains sample Excel files for testing.
 The script generates:
 
 - Processed Excel Report
-- PDF Report
 
 ---
 
